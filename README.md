@@ -1,0 +1,2 @@
+# Autonomous
+# Autonomous-Security-and-Suveillance-System-using-Image-Processing-and-Machine-Learning. The system manages to capture an image of a vehicle, identify the type of the vehicle and also the number plate and hence stores the results in a database. This database can hence store details of all blacklisted vehicles. Deep Learning was adopted to identify the type of vehicle by creating a database of images of cars on Indian roads. Image processing was applied to identify the number plate and hence export the result into the database. 
